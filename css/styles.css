@@ -5,6 +5,9 @@ body {
 }
 
 header {
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
   background-color: #333;
   color: #fff;
   display: flex;
@@ -75,6 +78,7 @@ main {
 
 footer {
   width: 80%;
+  height: 90px;
   margin: 0 auto;
   border-top: 1px solid #333;
   background-color: #333;
